@@ -8,3 +8,10 @@ Here, I want to write something related to **modules**:
 **in terraform.tfvars , we initialize variable.**
 
 
+**In main.tf, we tell in module block; for this, we have choosen this variable name.** 
+
+
+
+
+
+
