@@ -11,8 +11,8 @@ In this file, we create:
 - s3
 
  ### Questions: 
-What is vpc?
-What is subnet?
-What is availability zone?
-What is route table?
-We use security group for ec2, we use security group for vpc?
+- What is vpc?
+- What is subnet?
+- What is availability zone?
+- What is route table?
+- We use security group for ec2, we use security group for vpc?
